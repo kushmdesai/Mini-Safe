@@ -13,6 +13,8 @@ The servor motor acts as a lock preventing the door from moving and when unlocke
 
 *Note: I am using a breadboard currently and I will solder it together when actually making the thing in IRL*
 
+*Note: I know its not the best vid so pls don't make fun of me :(*
+
 ## BOM
 
 | Part name         | Cost    | Use                   | URL                                         |
