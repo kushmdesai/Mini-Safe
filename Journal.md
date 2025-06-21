@@ -16,9 +16,11 @@ Today I got a brilliant Idea. What if I made a minituare cute safe!! I thought t
 
 So I decided to start of making the actual wiring and everything instead of having to do that last. It took a while but evenutally it worked and it was amazing. This really energized me to start working on the next step. but before I tell you about it check out this video of the circiut.
 
-![Video of the circiut]()
+![Video of the circiut](/jounally-things/images/Vid_of_project.mp4)
 |
 Will make at the end so that I can show cad in it as well.
+
+![Diagram of circiut](/Wiring/Diagram.png)
 
 Next I realized that I didn't have to work on the pcbs so I could just make the case and I would be done with a major chunk of the project. So I started of making it and didn't really make to much, just the back part of the case which was relativly easy compared to the front. I just made a floor extruded the walls added a roof and then sum fillets.
 
