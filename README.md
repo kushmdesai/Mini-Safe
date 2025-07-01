@@ -9,7 +9,7 @@ The servor motor acts as a lock preventing the door from moving and when unlocke
 
 ![Diagram](/Wiring/Diagram.png)
 
-![vid of project](/jounally-things/images/Vid_of_project.mp4)
+![vid of project](/jounally-things/Videos/Vid_of_project.mp4)
 
 *Note: I am using a breadboard currently and I will solder it together when actually making the thing in IRL*
 
@@ -17,8 +17,13 @@ The servor motor acts as a lock preventing the door from moving and when unlocke
 
 ## BOM
 
-| Part name         | Cost    | Use                   | URL                                         |
-| ----------------- | ------- | --------------------- | ------------------------------------------- |
-| PCB Manufacture   | $2.40   | Putting case together |  [Ali Express](https://www.aliexpress.com/) |
-| Economic PCBA     | $1.39   | Putting case together |  [Ali Express](https://www.aliexpress.com/) |
-| Total:            | $3.79   |                       |                                             |
+| Part name         | Cost    | Use                                | URL                                         |
+| ----------------- | ------- | ---------------------------------- | ------------------------------------------- |
+| PCB Manufacture   | $2.40   | Putting case together              |  [Ali Express](https://www.aliexpress.com/) |
+| Economic PCBA     | $1.39   | Putting case together              |  [Ali Express](https://www.aliexpress.com/) |
+| ESP8266 Module    | $0.00   | Micro Controller                   |  I already have this                        |
+| RFID Module       | $0.00   | For Tap to Open feature            |  I already have this                        |
+| Servo Motor       | $0.00   | For locking mechanism              |  I already have this                        |
+| OLED Display      | $0.00   | To display error and open messages |  I already have this                        |
+| Wires             | $0.00   | To wire everything together        |  I already have this                        |
+| Total:            | $3.79   |                                    |                                             |
