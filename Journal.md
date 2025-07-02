@@ -21,6 +21,8 @@ So I decided to start of making the actual wiring and everything instead of havi
 |
 Will make at the end so that I can show cad in it as well.
 
+| I forgot to add the code to the repo so heree it is [code for the project](/Safe_Code.ino)
+
 ![Diagram of circiut](/Wiring/Diagram.png)
 
 Next I realized that I didn't have to work on the pcbs so I could just make the case and I would be done with a major chunk of the project. So I started of making it and didn't really make to much, just the back part of the case which was relativly easy compared to the front. I just made a floor extruded the walls added a roof and then sum fillets.
