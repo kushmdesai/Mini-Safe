@@ -10,13 +10,14 @@ created_at: "2025-06-16"
 
 ## JUNE 15
 
-**Time Spent: 10 Hours**
+**Time Spent: 11 Hours**
 
 Today I got a brilliant Idea. What if I made a minituare cute safe!! I thought that If done well It could be a really cute an amazing project so I started of by making a list of materials that I would need for it. I had a basic Idea A lock of some sort that would be unlocked by a input device such as a keypad. Then I had a realization, I have a RFID moudle so why not just use that! Then I had another realization I have a servo motor so why not just use that. Then I had another realization I have a Grove-LCD RGB BACKLIGHT so why not just use that! Then I had another realization I have a esp8266 board so why no just use that!!!!! (Slighly over-exagurated but I was really surprised okay.)
 
 So I decided to start of making the actual wiring and everything instead of having to do that last. It took a while but evenutally it worked and it was amazing. This really energized me to start working on the next step. but before I tell you about it check out this video of the circiut.
 
-![Video of the circiut](/jounally-things/images/Vid_of_project.mp4)
+[Video of the circiut](https://www.veed.io/view/2a0bd6de-5a5b-40c6-8968-e95c744f65eb?panel=share)
+
 |
 Will make at the end so that I can show cad in it as well.
 
