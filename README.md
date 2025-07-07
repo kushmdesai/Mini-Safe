@@ -7,9 +7,13 @@ How it should work is that when the correct card is tapped on the case of the sa
 The display is used to show wheather or not the card was accepted, This is shown by the display turning green if accepted and red if not.
 The servor motor acts as a lock preventing the door from moving and when unlocked the servo motor turn like the handle of a door allowing you to open the safe.
 
+The main reason I made this is because as I already have the materials to make this I was really able to focus on my CAD skills and improve them greatly. I feel like after designing this project I have improved my skills and I think i'm ready for more challenging project ahead.
+
 ![Diagram](/Wiring/Diagram.png)
 
-![vid of project](/jounally-things/Videos/Vid_of_project.mp4)
+![picture of cad model](/jounally-things/images/finalpicofullcase.png)
+
+[vid of project](https://www.veed.io/view/2a0bd6de-5a5b-40c6-8968-e95c744f65eb?panel=share)
 
 *Note: I am using a breadboard currently and I will solder it together when actually making the thing in IRL*
 
